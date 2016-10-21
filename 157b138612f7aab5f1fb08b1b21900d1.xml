@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeocodeResponse>
+ <status>OK</status>
+ <result>
+  <type>route</type>
+  <formatted_address>South Test Drive, Tempe, AZ 85284, USA</formatted_address>
+  <address_component>
+   <long_name>South Test Drive</long_name>
+   <short_name>S Test Dr</short_name>
+   <type>route</type>
+  </address_component>
+  <address_component>
+   <long_name>Tempe</long_name>
+   <short_name>Tempe</short_name>
+   <type>locality</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Maricopa County</long_name>
+   <short_name>Maricopa County</short_name>
+   <type>administrative_area_level_2</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Arizona</long_name>
+   <short_name>AZ</short_name>
+   <type>administrative_area_level_1</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>United States</long_name>
+   <short_name>US</short_name>
+   <type>country</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>85284</long_name>
+   <short_name>85284</short_name>
+   <type>postal_code</type>
+  </address_component>
+  <geometry>
+   <location>
+    <lat>33.3458910</lat>
+    <lng>-111.9663892</lng>
+   </location>
+   <location_type>GEOMETRIC_CENTER</location_type>
+   <viewport>
+    <southwest>
+     <lat>33.3448241</lat>
+     <lng>-111.9674320</lng>
+    </southwest>
+    <northeast>
+     <lat>33.3475221</lat>
+     <lng>-111.9647340</lng>
+    </northeast>
+   </viewport>
+   <bounds>
+    <southwest>
+     <lat>33.3450762</lat>
+     <lng>-111.9670070</lng>
+    </southwest>
+    <northeast>
+     <lat>33.3472700</lat>
+     <lng>-111.9651590</lng>
+    </northeast>
+   </bounds>
+  </geometry>
+  <partial_match>true</partial_match>
+  <place_id>ChIJXeTMjs8FK4cRx8Qi8D_JlCc</place_id>
+ </result>
+</GeocodeResponse>
