@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeocodeResponse>
+ <status>OK</status>
+ <result>
+  <type>street_address</type>
+  <formatted_address>Obere Königstraße 19, 96052 Bamberg, Germany</formatted_address>
+  <address_component>
+   <long_name>19</long_name>
+   <short_name>19</short_name>
+   <type>street_number</type>
+  </address_component>
+  <address_component>
+   <long_name>Obere Königstraße</long_name>
+   <short_name>Obere Königstraße</short_name>
+   <type>route</type>
+  </address_component>
+  <address_component>
+   <long_name>Bamberg</long_name>
+   <short_name>BA</short_name>
+   <type>locality</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Oberfranken</long_name>
+   <short_name>Oberfranken</short_name>
+   <type>administrative_area_level_2</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Bayern</long_name>
+   <short_name>BY</short_name>
+   <type>administrative_area_level_1</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>Germany</long_name>
+   <short_name>DE</short_name>
+   <type>country</type>
+   <type>political</type>
+  </address_component>
+  <address_component>
+   <long_name>96052</long_name>
+   <short_name>96052</short_name>
+   <type>postal_code</type>
+  </address_component>
+  <geometry>
+   <location>
+    <lat>49.8972300</lat>
+    <lng>10.8927900</lng>
+   </location>
+   <location_type>ROOFTOP</location_type>
+   <viewport>
+    <southwest>
+     <lat>49.8958810</lat>
+     <lng>10.8914410</lng>
+    </southwest>
+    <northeast>
+     <lat>49.8985790</lat>
+     <lng>10.8941390</lng>
+    </northeast>
+   </viewport>
+  </geometry>
+  <partial_match>true</partial_match>
+  <place_id>ChIJAUuxMRMjokcRRLDWruxcIm4</place_id>
+ </result>
+</GeocodeResponse>
